@@ -1,4 +1,9 @@
-# Predictly Labs 🎯💰
+# Predictly 
+
+<img width="1710" height="930" alt="image" src="https://github.com/user-attachments/assets/2e7da370-ea66-4761-ae6e-a1204ff1b3e3" />
+
+
+---
 
 **Social-First Decentralized Prediction Markets - Built with $MOVE**
 
@@ -432,3 +437,4 @@ If you find Predictly useful, please consider giving us a star ⭐ on GitHub!
   <p><em>Where Prediction Markets Meet Social Communities</em></p>
   <p>Built with $MOVE on Movement Network 🚀</p>
 </div>
+
