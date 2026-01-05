@@ -413,6 +413,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation:** [predictly-labs.gitbook.io](https://predictly-labs.gitbook.io/predictly-labs-docs)
 - **Backend API:** [backend-3ufs.onrender.com](https://backend-3ufs.onrender.com)
 - **GitHub:** [github.com/Predictly-Labs](https://github.com/Predictly-Labs)
+- **Gitbook:** [gitbook](https://predictly-labs.gitbook.io/predictly-labs-docs/introduction/overview)
 
 ---
 
@@ -437,4 +438,5 @@ If you find Predictly useful, please consider giving us a star ⭐ on GitHub!
   <p><em>Where Prediction Markets Meet Social Communities</em></p>
   <p>Built with $MOVE on Movement Network 🚀</p>
 </div>
+
 
