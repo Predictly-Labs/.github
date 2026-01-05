@@ -392,7 +392,7 @@ Visit `http://localhost:3000` to see the app running locally.
 
 ## 👥 Team
 
-Built with ❤️ by the Predictly Labs team for the Movement Mammothon Hackathon.
+Built with ❤️ by the Predictly Labs team for Movement M1 Hackathon.
 
 **Tracks:**
 
@@ -438,5 +438,6 @@ If you find Predictly useful, please consider giving us a star ⭐ on GitHub!
   <p><em>Where Prediction Markets Meet Social Communities</em></p>
   <p>Built with $MOVE on Movement Network 🚀</p>
 </div>
+
 
 
