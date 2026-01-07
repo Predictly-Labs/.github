@@ -324,7 +324,7 @@ Visit `http://localhost:3000` to see the app running locally.
 | **Contract** | `0x9161980be9b78e96ddae98ceb289f6f4cda5e4af70667667ff9af8438a94e565`                                                                                                        |
 | **Module**   | `predictly::market`                                                                                                                                                         |
 | **RPC**      | `https://testnet.movementnetwork.xyz/v1`                                                                                                                                    |
-| **Explorer** | [View Contract](https://explorer.movementnetwork.xyz/account/0x9161980be9b78e96ddae98ceb289f6f4cda5e4af70667667ff9af8438a94e565/modules/run/market?network=bardock+testnet) |
+| **Explorer** | [View Contract](https://explorer.movementnetwork.xyz/account/0x9161980be9b78e96ddae98ceb289f6f4cda5e4af70667667ff9af8438a94e565/transactions?network=bardock+testnet) |
 | **Faucet**   | [Get MOVE Tokens](https://faucet.movementnetwork.xyz/)                                                                                                                      |
 
 ---
@@ -438,6 +438,7 @@ If you find Predictly useful, please consider giving us a star ⭐ on GitHub!
   <p><em>Where Prediction Markets Meet Social Communities</em></p>
   <p>Built with $MOVE on Movement Network 🚀</p>
 </div>
+
 
 
 
