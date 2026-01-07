@@ -398,6 +398,7 @@ Built with ❤️ by the Predictly Labs team for Movement M1 Hackathon.
 
 - Best Consumer App built on Movement
 - The People's Choice
+- Best New Defi App or Defi built on top of existing Movement Protocols
 
 ---
 
@@ -438,6 +439,7 @@ If you find Predictly useful, please consider giving us a star ⭐ on GitHub!
   <p><em>Where Prediction Markets Meet Social Communities</em></p>
   <p>Built with $MOVE on Movement Network 🚀</p>
 </div>
+
 
 
 
