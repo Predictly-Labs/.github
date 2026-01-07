@@ -28,7 +28,7 @@ Unlike traditional prediction markets, Predictly is **social-first** - designed 
 ### Key Innovation
 
 - **🎲 Full Degen Markets** - High risk, high reward prediction markets where winners take all
-- **🛡️ Zero Loss Markets** - Protected markets using DeFi yield farming (Coming Q1 2025)
+- **🛡️ Zero Loss Markets** - Protected markets using DeFi yield farming
 - **👥 Private Groups** - Create exclusive prediction communities with invite codes
 - **⚖️ Judge System** - Fair, transparent market resolution through trusted community judges
 - **🎮 Gamification** - Leaderboards, badges, and competitive prediction tournaments
@@ -91,7 +91,7 @@ Predictly addresses these problems with a **decentralized, social-first approach
 
 ### 4. Principal Protection 🛡️
 
-- **Zero Loss Markets** - Your principal is always protected (Coming Q1 2025)
+- **Zero Loss Markets** - Your principal is always protected
 - **Yield-based Rewards** - Winners earn from DeFi yield, not losses
 - **Risk-Free Participation** - Perfect for risk-averse users
 
@@ -363,11 +363,11 @@ Visit `http://localhost:3000` to see the app running locally.
 - ✅ Wallet integration (Nightly, Petra, Martian)
 - ✅ Judge-based resolution
 - ✅ Deployed to Movement Testnet
+- ✅ Zero Loss Markets with DeFi yield
+- ✅ NFT-based roles and badges
 
 ### Phase 2: Launch (Q1 2025)
 
-- 🔄 Zero Loss Markets with DeFi yield
-- 🔄 NFT-based roles and badges
 - 📋 Mobile app (PWA)
 - 📋 Push notifications
 - 📋 Mainnet deployment
@@ -439,6 +439,7 @@ If you find Predictly useful, please consider giving us a star ⭐ on GitHub!
   <p><em>Where Prediction Markets Meet Social Communities</em></p>
   <p>Built with $MOVE on Movement Network 🚀</p>
 </div>
+
 
 
 
